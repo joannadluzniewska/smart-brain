@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//joannadluzniewska.github.io/smart-brain/static/css/main.6170c43b.css",
+    "main.js": "/http//joannadluzniewska.github.io/smart-brain/static/js/main.3c6b5bf4.js",
+    "index.html": "/http//joannadluzniewska.github.io/smart-brain/index.html",
+    "main.6170c43b.css.map": "/http//joannadluzniewska.github.io/smart-brain/static/css/main.6170c43b.css.map",
+    "main.3c6b5bf4.js.map": "/http//joannadluzniewska.github.io/smart-brain/static/js/main.3c6b5bf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6170c43b.css",
+    "static/js/main.3c6b5bf4.js"
+  ]
+}
